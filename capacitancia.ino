@@ -1,3 +1,11 @@
+// !!! Medir un capacitor sin una resistencia en serie puede destruir tu Arduino !!!
+
+// Por Roberto A. Zavala
+// Breve : https://es.overleaf.com/read/yqvkmtqjbjzj
+// Libro : https://www.amazon.com.mx/dp/B074TTGLL2
+// 🙏🏼    : DNv7acPAeVBhTXbKv26itJecPG1SPy2o4F
+
+// !!! Medir un capacitor sin una resistencia en serie puede destruir tu Arduino !!!
 
 float F = 2;
 float t;
