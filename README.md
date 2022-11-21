@@ -1,0 +1,2 @@
+# capacitancia
+Capacitor
